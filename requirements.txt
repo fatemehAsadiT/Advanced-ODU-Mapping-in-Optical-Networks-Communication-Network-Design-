@@ -1,0 +1,6 @@
+gurobipy
+deap
+matplotlib
+scipy
+pyswarm
+tqdm
